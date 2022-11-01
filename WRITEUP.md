@@ -1,4 +1,4 @@
-# Write-up Template
+# Write-up 
 
 ### Analyze, choose, and justify the appropriate resource option for deploying the app.
 
